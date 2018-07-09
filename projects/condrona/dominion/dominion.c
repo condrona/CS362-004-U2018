@@ -736,7 +736,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   void smithy_card()
   {
     //+3 Cards
-    for (i = 0; i < 3; i++)
+    for (i = 1; i < 3; i++)
     {
       drawCard(currentPlayer, state);
     }
@@ -776,7 +776,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   {
     //gain card with cost up to 5
     //Backup hand
-    for (i = 1; i <= state->handCount[currentPlayer]; i++)
+    for (i = 0; i <= state->handCount[currentPlayer]; i++)
     {
       temphand[i] = state->hand[currentPlayer][i];//Backup card
       state->hand[currentPlayer][i] = -1;//Set to nothing
