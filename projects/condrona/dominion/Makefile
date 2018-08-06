@@ -1,4 +1,4 @@
-CFLAGS = -Wall -fpic -coverage -lm -std=c99
+CFLAGS = -Wall -fpic -coverage -lm
 
 rngs.o: rngs.h rngs.c
 	gcc -c rngs.c -g  $(CFLAGS)
@@ -33,7 +33,26 @@ runtests: testDrawCard
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
+ut: dominion.o interface.o
+	gcc -o test4 -g cardtest4.c -g dominion.o rngs.o interface.o $(CFLAGS)
+
+	./test4 
+	gcov -f -b dominion.c
+
+randomtestresults.out: dominion.o interface.o
+	gcc -o test1 -g randomtestcard1.c -g dominion.o rngs.o interface.o $(CFLAGS)
+	gcc -o test2 -g randomtestcard2.c -g dominion.o rngs.o interface.o $(CFLAGS)
+	gcc -o test3 -g randomtestadventurer.c -g dominion.o rngs.o interface.o $(CFLAGS)
+
+	./test1 >> randomtestcard1.out
+	./test2 >> randomtestcard2.out
+	./test3 >> randomtestadventurer.out
+	gcov -f -b dominion.c >> randomtestresults.out
+	cat dominion.c.gcov >> randomtestresults.out 	
+
+# Adapted from Makefile posted by Ali Aburas on Piazza
+
 all: playdom player 
 
 clean:
-	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe
+	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe test1 test2 test3 test4 test5 test6 test7 test8

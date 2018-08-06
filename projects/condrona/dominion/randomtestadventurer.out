@@ -1,0 +1,900 @@
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 1.
+TEST FAILED.  G.deckCount[0] is 2; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 0.
+TEST SUCCESSFULLY COMPLETED
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 2.
+TEST FAILED.  G.deckCount[0] is 1; expected 3
+TEST SUCCESSFULLY COMPLETED
+TEST FAILED.  prevG.discardCount[0] = 0 and G.discardCount[0] is 3.
+TEST FAILED.  G.deckCount[0] is 0; expected 3
